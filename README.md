@@ -161,6 +161,26 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+<div class="table-responsive">
+  <table class="table">
+  <tr>
+        <td>
+            <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VladislavZhurbin&theme=dark&background=000000" alt="webDev's Github stats" />
+        </td>
+        <td>
+            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladislavZhurbin&layout=compact&theme=vision-friendly-dark" />
+        </td>
+    </tr>
+ </table>
+    
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-6 col-md-4"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VladislavZhurbin&theme=dark&background=000000" alt="webDev's Github stats" /></div>
+    <div class="col-6 col-md-4"><img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladislavZhurbin&layout=compact&theme=vision-friendly-dark" /></div>
+  </div>
+</div>
+
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VladislavZhurbin)-->
 
 
@@ -170,4 +190,4 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VladislavZhurbin" alt="VladislavZhurbin" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VladislavZhurbin&label=Profile%20views&color=0e75b6&style=flat" alt="VladislavZhurbin" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=VladislavZhurbin&label=Profile%20views&color=0e75b6&style=flat" alt="VladislavZhurbin" /> </p> -->
