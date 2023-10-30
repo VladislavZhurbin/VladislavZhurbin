@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
