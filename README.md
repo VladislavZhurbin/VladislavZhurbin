@@ -149,7 +149,7 @@ Here are some ideas to get you started:
 ![codewars](https://www.codewars.com/users/VladislavZhurbin/badges/large)
 
 ### ⚙️ GitHub статистика:
-
+<!--
 <table>
     <tr>
         <td>
@@ -179,6 +179,19 @@ Here are some ideas to get you started:
     <div class="col-6 col-md-4"><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VladislavZhurbin&theme=dark&background=000000" alt="webDev's Github stats" /></div>
     <div class="col-6 col-md-4"><img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladislavZhurbin&layout=compact&theme=vision-friendly-dark" /></div>
   </div>
+</div>
+
+<style>table-responsive {display: block; width: 100%; overflow-x: auto;}table-responsive > table {width: 100%;} </style>
+-->
+<div class="table-responsive">
+  <table class="table">
+    <td>
+        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VladislavZhurbin&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+        <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VladislavZhurbin&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </table>
 </div>
 
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VladislavZhurbin)-->
