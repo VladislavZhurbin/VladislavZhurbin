@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 | ----------------------------------------------------------------| :---------------: |
 | skillbox.ru/QA engineer                                         | 10/2023 - xx/202x |
 | karpov.courses/Docker                                           | 10/2023 - xx/202x |
-| karpov.courses/SQL симулятор                                    | 10/2023 - xx/202x |
+| karpov.courses/SQL симулятор                                    | 12/2023 - 01/2024 |
 | karpov.courses/Тестировщик                                      | 09/2023 - 09/2023 |
 | ru.hexlet.io/Основы Java                                        | 08/2023 - 09/2023 |
 | Школа 21/Основы C                                               | 08/2022 - 09/2022 |
