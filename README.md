@@ -139,7 +139,8 @@ Here are some ideas to get you started:
 | ----------------------------------------------------------------| :---------------: |
 | skillbox.ru/QA engineer                                         | 10/2023 - xx/202x |
 | karpov.courses/Docker                                           | 10/2023 - xx/202x |
-| karpov.courses/SQL симулятор                                    | 12/2023 - 01/2024 |
+| [stepik/Тестирование ПО с нуля. Теория + Практика](https://v2.coreapp.ai/certificate/pdf/65bbe73e2c15d6b021074982)      | 12/2023 - 01/2024 |
+| [karpov.courses/SQL симулятор](https://lab.karpov.courses/certificate/36b7f73e-76ed-481d-9ba1-41cf8e055024/en/)| 12/2023 - 01/2024 |
 | karpov.courses/Тестировщик                                      | 09/2023 - 09/2023 |
 | ru.hexlet.io/Основы Java                                        | 08/2023 - 09/2023 |
 | Школа 21/Основы C                                               | 08/2022 - 09/2022 |
