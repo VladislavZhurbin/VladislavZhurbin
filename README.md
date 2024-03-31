@@ -137,7 +137,6 @@ Here are some ideas to get you started:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| skillbox.ru/QA engineer                                         | 10/2023 - xx/202x |
 | karpov.courses/Docker                                           | 10/2023 - xx/202x |
 | [stepik/Тестирование ПО с нуля. Теория + Практика](https://v2.coreapp.ai/certificate/pdf/65bbe73e2c15d6b021074982)      | 12/2023 - 01/2024 |
 | [karpov.courses/SQL симулятор](https://lab.karpov.courses/certificate/36b7f73e-76ed-481d-9ba1-41cf8e055024/en/)         | 12/2023 - 01/2024 |
