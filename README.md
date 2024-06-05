@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - :seedling: Завершил курсы по тестированию от KARPOV.COURCES!
 
-- :zap: Являюсь студентом на курсе [KARPOV.COURSES Docker](https://karpov.courses/docker), [KARPOV.COURSES SQL simulator](https://karpov.courses/simulator-sql)
+- :zap: Являюсь студентом на курсе [KARPOV.COURSES Docker](https://karpov.courses/docker)
 <!--
 - - 🌱 I’m currently learning [Skillbox QA engineer course](), [KARPOV.COURSES Docker](https://karpov.courses/docker), [KARPOV.COURSES SQL simulator](https://karpov.courses/simulator-sql)
 -->
